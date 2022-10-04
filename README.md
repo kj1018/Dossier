@@ -34,9 +34,11 @@ no
 
 ## Project Link (GitHub repository URL):-
 
-https://github.com/kj1018/MSVI.git
+https://github.com/kj1018/Dossier.git
 
 ## Project Demo URL:-
+
+https://blue-glacier-0bbfb5710.2.azurestaticapps.net
 
 ## SS OF MY WEBSITE:-
 
