@@ -1,70 +1,49 @@
-# Getting Started with Create React App
+# Dossier
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Note Keeping Website.
 
-## Available Scripts
+This is the project created for Microsoft Future Ready Talent Virtual Internship Program.
 
-In the project directory, you can run:
+## Industry\*:
 
-### `npm start`
+Education
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Project Title\*:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Online Note Keeping Website
 
-### `npm test`
+## Problem Statement/Opportunity\*:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+A online Note Making website is a sample Front End prototype website for student who want to keep their notes at a single place which can be easily accessible to them. This site makes note making easy. To build the whole website I have chosen Azure Cloud Platform.
 
-### `npm run build`
+## Project Description\*:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Core Idea of Project is to build an sample prototype online Note Making website with the help of HTML, CSS, Bootstrp, Javascript and React. In education industry this is one of the most important product which is needed for easy and accessible note making . The primary goal of sample prototype a Note Making website is to make note making easy and accessible to each and every student.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Primary Azure Technology\*:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Static Web Apps, Static Web Apps
 
-### `npm run eject`
+## use of technology":-
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+A Static Web Application is any web application that can be delivered directly to an end user's browser without any server-side alteration of the HTML, CSS, JavaScript, or React content. What are the uses of static Web page? Image result for what is the use of static web app in website Uses of Static Website Blogs. Blogs are websites built based on a specific theme, and all the contents of the websites are treated as individual posts under precise topics for the website's theme. ... Marketing & Sales Websites. ... Websites Under-Development. ... Autonomous Domestic Websites Static applications and websites render in the user's browser without the need for server side processing, this means that all the rendering of HTML, CSS, JavaScript, and React is done on the client side, rather then relying on server side technologies
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Other Azure Technologies:-
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+no
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Project Link (GitHub repository URL):-
 
-## Learn More
+https://github.com/kj1018/MSVI.git
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Project Demo URL:-
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## SS OF MY WEBSITE:-
 
-### Code Splitting
+<div>
+<img src="SS of Dossier.png" height="480" width="700" style="object-fit : cover;">
+</div>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## VIDEO URL :-
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+https://youtu.be/N1qa9RD82yM
