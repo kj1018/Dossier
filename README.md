@@ -22,7 +22,7 @@ Core Idea of Project is to build an sample prototype online Note Making website 
 
 ## Primary Azure Technology\*:
 
-Static Web Apps, Static Web Apps
+Static Web Apps, Cloud Services
 
 ## use of technology":-
 
