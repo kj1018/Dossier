@@ -41,6 +41,9 @@ https://github.com/kj1018/Dossier.git
 https://blue-glacier-0bbfb5710.2.azurestaticapps.net
 
 ## SS OF MY WEBSITE:-
+<div>
+<img src="SS of Dossier Home.png" height="480" width="700" style="object-fit : cover;">
+</div>
 
 <div>
 <img src="SS of Dossier.png" height="480" width="700" style="object-fit : cover;">
